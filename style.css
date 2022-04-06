@@ -366,7 +366,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 20px;
+        right: 150px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -681,7 +681,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 500px;
     margin: auto auto auto auto;
 }
 
@@ -1030,8 +1030,8 @@ h4 {
 
 @media (max-width: 400px) {
     .bloc {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 }
 
